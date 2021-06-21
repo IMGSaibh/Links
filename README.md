@@ -1,3 +1,5 @@
 # Links
 
-## bitwise calculations
+## bit and more
+
+[bitconverter](https://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm)
