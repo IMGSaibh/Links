@@ -9,3 +9,4 @@
 ## Good Computer grraphic stuff
 
 [Inigo Quilez](https://www.iquilezles.org/index.html)
+[Performance infos for GPU](https://thegamedev.guru/unity-gpu-performance)
