@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-16T13:41:39.144Z" agent="5.0 (Windows)" etag="SoGb-Jr47xPNiTTxxtw5" version="16.5.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-17T16:52:29.653Z" agent="5.0 (Windows)" etag="ANosoybZAKpHYqf7RtbZ" version="16.5.6" type="github" pages="2">
   <diagram id="N8n0e8m4OVwDgdMQSZsH" name="Page-1">
     <mxGraphModel dx="1422" dy="752" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -42,6 +42,15 @@
       <root>
         <mxCell id="hupXlNnJuXjkIASSUB05-0" />
         <mxCell id="hupXlNnJuXjkIASSUB05-1" parent="hupXlNnJuXjkIASSUB05-0" />
+        <mxCell id="a6dhOnjzKdn9SuVCjnqM-1" value="Funktionale Konzepte, Rechtliches, Einsatzumgebung, Systemgrenzen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hupXlNnJuXjkIASSUB05-1">
+          <mxGeometry x="310" y="340" width="185" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="a6dhOnjzKdn9SuVCjnqM-2" value="Entwicklungsgegenstand" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hupXlNnJuXjkIASSUB05-1">
+          <mxGeometry x="307" y="283" width="185" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="a6dhOnjzKdn9SuVCjnqM-3" value="Abgeleitetes Betriebsszenario" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hupXlNnJuXjkIASSUB05-1">
+          <mxGeometry x="314" y="427" width="185" height="75" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
