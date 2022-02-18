@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T16:53:08.000Z" agent="5.0 (Windows)" etag="41mE7QgkjAzqGpNVE4NO" version="16.5.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-18T00:06:30.144Z" agent="5.0 (Windows)" etag="HRZ9-OkPCZ9w3x3lqPsB" version="16.5.6" type="github" pages="2">
   <diagram id="N8n0e8m4OVwDgdMQSZsH" name="Page-1">
     <mxGraphModel dx="1422" dy="752" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -56,6 +56,12 @@
         </mxCell>
         <mxCell id="a6dhOnjzKdn9SuVCjnqM-3" value="Abgeleitetes Betriebsszenario" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hupXlNnJuXjkIASSUB05-1">
           <mxGeometry x="310" y="470" width="185" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="a6dhOnjzKdn9SuVCjnqM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="hupXlNnJuXjkIASSUB05-1" source="a6dhOnjzKdn9SuVCjnqM-6" target="a6dhOnjzKdn9SuVCjnqM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a6dhOnjzKdn9SuVCjnqM-6" value="Verkehrsszenario (Unfalldatenbanken)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hupXlNnJuXjkIASSUB05-1">
+          <mxGeometry x="310" y="130" width="185" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
