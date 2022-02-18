@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T12:56:22.622Z" agent="5.0 (Windows)" etag="6Y5sxFpupBdDF0BtfaTB" version="16.5.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-18T13:34:04.662Z" agent="5.0 (Windows)" etag="0V-HU3uwU7bqZPOrjoZ8" version="16.5.6" type="github" pages="3">
   <diagram id="N8n0e8m4OVwDgdMQSZsH" name="Page-1">
     <mxGraphModel dx="1422" dy="752" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -42,31 +42,31 @@
       <root>
         <mxCell id="hupXlNnJuXjkIASSUB05-0" />
         <mxCell id="hupXlNnJuXjkIASSUB05-1" parent="hupXlNnJuXjkIASSUB05-0" />
-        <mxCell id="a6dhOnjzKdn9SuVCjnqM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="hupXlNnJuXjkIASSUB05-1" source="a6dhOnjzKdn9SuVCjnqM-2" target="a6dhOnjzKdn9SuVCjnqM-3" edge="1">
+        <mxCell id="a6dhOnjzKdn9SuVCjnqM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="hupXlNnJuXjkIASSUB05-1" source="a6dhOnjzKdn9SuVCjnqM-2" target="VIhA6CncK7O6pqGtxIit-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="402.5" y="340" as="targetPoint" />
+            <mxPoint x="294.5" y="336" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a6dhOnjzKdn9SuVCjnqM-2" value="Definition Entwicklungsgegenstand (Beschreibung der Einsatzumgebung und Systemgrenzen)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hupXlNnJuXjkIASSUB05-1" vertex="1">
-          <mxGeometry x="310" y="177" width="185" height="88" as="geometry" />
+        <mxCell id="a6dhOnjzKdn9SuVCjnqM-2" value="&lt;div&gt;&lt;b&gt;Definition&lt;/b&gt; &lt;b&gt;Entwicklungsgegenstand&lt;/b&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Einsatzumgebung, Systemgrenzen)&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hupXlNnJuXjkIASSUB05-1" vertex="1">
+          <mxGeometry x="39" y="270" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="a6dhOnjzKdn9SuVCjnqM-3" value="Abgeleitetes Betriebsszenario (Abstrrakte Beschreibung durch Experten eines sicheren Fahrzustands)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hupXlNnJuXjkIASSUB05-1" vertex="1">
-          <mxGeometry x="310" y="361" width="185" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="a6dhOnjzKdn9SuVCjnqM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="hupXlNnJuXjkIASSUB05-1" source="a6dhOnjzKdn9SuVCjnqM-6" target="a6dhOnjzKdn9SuVCjnqM-2" edge="1">
+        <mxCell id="a6dhOnjzKdn9SuVCjnqM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="hupXlNnJuXjkIASSUB05-1" source="a6dhOnjzKdn9SuVCjnqM-6" target="a6dhOnjzKdn9SuVCjnqM-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a6dhOnjzKdn9SuVCjnqM-6" value="Verkehrsszenario (Unfalldatenbanken)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hupXlNnJuXjkIASSUB05-1" vertex="1">
-          <mxGeometry x="310" y="79" width="185" height="47" as="geometry" />
+        <mxCell id="bVER5lbUNtfXGPkxV8xg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontColor=#999999;strokeWidth=2;" edge="1" parent="hupXlNnJuXjkIASSUB05-1" source="a6dhOnjzKdn9SuVCjnqM-6" target="VIhA6CncK7O6pqGtxIit-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VIhA6CncK7O6pqGtxIit-0" value="Betriebssituationen, Betriebszustände" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hupXlNnJuXjkIASSUB05-1">
-          <mxGeometry x="518" y="467" width="185" height="75" as="geometry" />
+        <mxCell id="a6dhOnjzKdn9SuVCjnqM-6" value="&lt;div&gt;&lt;b&gt;Verkehrsszenario&lt;/b&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Unfalldatenbanken, Expertenwissen)&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hupXlNnJuXjkIASSUB05-1" vertex="1">
+          <mxGeometry x="154" y="147" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VIhA6CncK7O6pqGtxIit-1" value="Situationsanalyse und Risikobewertung" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hupXlNnJuXjkIASSUB05-1">
-          <mxGeometry x="556" y="152" width="185" height="75" as="geometry" />
+        <mxCell id="bVER5lbUNtfXGPkxV8xg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;fontColor=#999999;strokeWidth=2;" edge="1" parent="hupXlNnJuXjkIASSUB05-1" source="VIhA6CncK7O6pqGtxIit-1" target="bVER5lbUNtfXGPkxV8xg-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VIhA6CncK7O6pqGtxIit-2" value="Verkehrsszenario (Unfalldatenbanken)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hupXlNnJuXjkIASSUB05-1">
-          <mxGeometry x="556" y="79" width="185" height="47" as="geometry" />
+        <mxCell id="VIhA6CncK7O6pqGtxIit-1" value="&lt;div&gt;&lt;b&gt;Situationsanalyse und &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Risikobewertung&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hupXlNnJuXjkIASSUB05-1">
+          <mxGeometry x="312" y="270" width="182" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bVER5lbUNtfXGPkxV8xg-0" value="&lt;div&gt;&lt;b&gt;Sicherheitsziele und &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Sicherheitskonzept&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hupXlNnJuXjkIASSUB05-1">
+          <mxGeometry x="527" y="270" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
