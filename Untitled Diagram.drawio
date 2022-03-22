@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-22T18:31:50.821Z" agent="5.0 (Windows)" etag="JmcQ6R4Udah8fijP5qbp" version="17.1.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-03-22T20:08:16.924Z" agent="5.0 (Windows)" etag="fOF3muJY7uKahepZRwgn" version="17.1.3" type="github" pages="6">
   <diagram id="N8n0e8m4OVwDgdMQSZsH" name="Page-1">
     <mxGraphModel dx="1422" dy="752" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -340,7 +340,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I_yx7tIVHWn44HEgemOw" name="Page-6">
-    <mxGraphModel dx="677" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="541" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="geh7tWysymWtRsqjCZDZ-0" />
         <mxCell id="geh7tWysymWtRsqjCZDZ-1" parent="geh7tWysymWtRsqjCZDZ-0" />
@@ -369,6 +369,12 @@
             <mxPoint x="600" y="200" as="sourcePoint" />
             <mxPoint x="690" y="170.0000000000001" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="geh7tWysymWtRsqjCZDZ-11" value="&lt;font style=&quot;font-size: 18px&quot;&gt;0,400 %&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=15;" vertex="1" parent="geh7tWysymWtRsqjCZDZ-1">
+          <mxGeometry x="470" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="geh7tWysymWtRsqjCZDZ-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;0,390 %&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-15;" vertex="1" parent="geh7tWysymWtRsqjCZDZ-1">
+          <mxGeometry x="210" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
