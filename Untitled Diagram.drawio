@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T20:01:03.604Z" agent="5.0 (Windows)" etag="AwCTemJywT_zY4ijyNUo" version="17.1.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-03-23T20:01:58.127Z" agent="5.0 (Windows)" etag="GEbCNTc5tMPvkre_HDnz" version="17.1.5" type="github" pages="6">
   <diagram id="N8n0e8m4OVwDgdMQSZsH" name="Page-1">
     <mxGraphModel dx="1422" dy="752" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -478,6 +478,9 @@
         </mxCell>
         <mxCell id="gcU1Q_X__CwgfHNmT_8U-11" value="&lt;div&gt;S2&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=25;" vertex="1" parent="PKk-_By_TQiHV7UI6bV2-1">
           <mxGeometry x="244" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gcU1Q_X__CwgfHNmT_8U-12" value="&lt;font color=&quot;#808080&quot;&gt;Gelände&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PKk-_By_TQiHV7UI6bV2-1">
+          <mxGeometry x="24" y="656" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
