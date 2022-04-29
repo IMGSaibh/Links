@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T09:18:23.690Z" agent="5.0 (Windows)" etag="YbHMBqBbpJdX23Px8UE_" version="17.2.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-29T12:23:45.299Z" agent="5.0 (Windows)" etag="sQN88BkBJP53A3Ex-FFL" version="17.2.4" type="github" pages="6">
   <diagram id="N8n0e8m4OVwDgdMQSZsH" name="Page-1">
     <mxGraphModel dx="1422" dy="752" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
         <mxCell id="VIhA6CncK7O6pqGtxIit-1" value="&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Situationsanalyse und &lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Risikobewertung&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hupXlNnJuXjkIASSUB05-1" vertex="1">
           <mxGeometry x="312" y="270" width="182" height="91" as="geometry" />
         </mxCell>
-        <mxCell id="hdeFF1G8OJ9l6puyuqe7-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="hupXlNnJuXjkIASSUB05-1" source="bVER5lbUNtfXGPkxV8xg-0" target="BFoCcrr7oBhBQ1uLv_oP-0">
+        <mxCell id="hdeFF1G8OJ9l6puyuqe7-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="hupXlNnJuXjkIASSUB05-1" source="bVER5lbUNtfXGPkxV8xg-0" target="BFoCcrr7oBhBQ1uLv_oP-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bVER5lbUNtfXGPkxV8xg-0" value="&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Sicherheitsziele und &lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Sicherheitskonzept&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hupXlNnJuXjkIASSUB05-1" vertex="1">
@@ -73,27 +73,6 @@
         </mxCell>
         <mxCell id="BFoCcrr7oBhBQ1uLv_oP-0" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Ableiten von Testfällen&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hupXlNnJuXjkIASSUB05-1" vertex="1">
           <mxGeometry x="527" y="391" width="240" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="BFoCcrr7oBhBQ1uLv_oP-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Sicherheitsvalidierung&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hupXlNnJuXjkIASSUB05-1" vertex="1">
-          <mxGeometry x="279" y="693" width="240" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="hdeFF1G8OJ9l6puyuqe7-1" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="hupXlNnJuXjkIASSUB05-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="24" y="339" as="sourcePoint" />
-            <mxPoint x="24" y="279" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hdeFF1G8OJ9l6puyuqe7-2" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="hupXlNnJuXjkIASSUB05-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="788" y="394" as="sourcePoint" />
-            <mxPoint x="788" y="334" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hdeFF1G8OJ9l6puyuqe7-3" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="hupXlNnJuXjkIASSUB05-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="324" y="45" as="sourcePoint" />
-            <mxPoint x="440" y="45" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
