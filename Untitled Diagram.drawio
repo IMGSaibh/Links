@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T12:47:17.546Z" agent="5.0 (Windows)" etag="Q-5OcXw8zVazuMHlohq_" version="18.1.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-06-07T12:53:31.263Z" agent="5.0 (Windows)" etag="aREJ0jgHgGt9fES4GiTA" version="18.1.2" type="github" pages="9">
   <diagram id="N8n0e8m4OVwDgdMQSZsH" name="Page-1">
     <mxGraphModel dx="1422" dy="752" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1398,25 +1398,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L1PBvP7BT7HHH30ZwHMA-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Perlin Noise&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="53.5" y="29" width="130" height="68" as="geometry" />
+          <mxGeometry x="53.5" y="62" width="130" height="68" as="geometry" />
         </mxCell>
         <mxCell id="L1PBvP7BT7HHH30ZwHMA-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;strokeWidth=1;" edge="1" parent="1" source="L1PBvP7BT7HHH30ZwHMA-20" target="L1PBvP7BT7HHH30ZwHMA-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L1PBvP7BT7HHH30ZwHMA-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Perlin Noise Parametrierung&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="53.5" y="137" width="130" height="68" as="geometry" />
+          <mxGeometry x="53.5" y="159" width="130" height="68" as="geometry" />
         </mxCell>
         <mxCell id="L1PBvP7BT7HHH30ZwHMA-23" value="&lt;p style=&quot;margin-bottom: 0cm; line-height: 100%; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;Höhenkarte&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="31" y="260" width="175" height="68" as="geometry" />
+          <mxGeometry x="48.5" y="260" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L1PBvP7BT7HHH30ZwHMA-27" value="Terrain" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="227" y="260" width="175" height="68" as="geometry" />
+          <mxGeometry x="200" y="260" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L1PBvP7BT7HHH30ZwHMA-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;strokeWidth=1;" edge="1" parent="1" source="L1PBvP7BT7HHH30ZwHMA-28" target="L1PBvP7BT7HHH30ZwHMA-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L1PBvP7BT7HHH30ZwHMA-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Trianguliertes Polygonnetz&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="249.5" y="137" width="130" height="68" as="geometry" />
+          <mxGeometry x="205" y="159" width="130" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="L1PBvP7BT7HHH30ZwHMA-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;strokeWidth=1;" edge="1" parent="1" source="L1PBvP7BT7HHH30ZwHMA-30" target="L1PBvP7BT7HHH30ZwHMA-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L1PBvP7BT7HHH30ZwHMA-30" value="Triangulierte Strecke" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="163" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L1PBvP7BT7HHH30ZwHMA-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Extraktion Strecke&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="260" width="130" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="L1PBvP7BT7HHH30ZwHMA-35" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Modellierung 1&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="592" y="260" width="130" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
