@@ -8,6 +8,6 @@
 
 ## Good computer graphic stuff
 
-[Inigo Quilez](https://www.iquilezles.org/index.html](https://iquilezles.org/)
+[Inigo Quilez](https://iquilezles.org/)
 
 [Performance infos for GPU](https://thegamedev.guru/unity-gpu-performance)
