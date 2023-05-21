@@ -22,6 +22,7 @@
 4. [shader cheat sheet of properties, variables and more](https://gist.github.com/Split82/d1651403ffb05e912d9c3786f11d6a44)
 5. [build in shader functions unity](https://docs.unity3d.com/2019.3/Documentation/Manual/SL-BuiltinFunctions.html)
 6. [unity programming patterns](https://github.com/Habrador/Unity-Programming-Patterns#8-game-loop)
+7. [unity disney shader](https://github.com/przemyslawzaworski/Unity3D-CG-programming/tree/master)
 
 ## CG Standard Library
 [https://developer.download.nvidia.com/cg/index_stdlib.html](https://developer.download.nvidia.com/cg/index_stdlib.html)
