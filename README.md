@@ -17,6 +17,7 @@
 
 # Animations
 1. [Animation Functions](https://easings.net/de)
+2. [Color animation shader functions](https://thebookofshaders.com/edit.php#06/easing.frag) 
 
 # Computer graphics
 1. [Model-View-Projection](https://jsantell.com/model-view-projection/)
